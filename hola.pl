@@ -1,4 +1,4 @@
 # perl
-print "Hola, Ramis!\n";
+print "Hola, Eclipse!\n";
 # perl 6
-# say 'Hola, Ramis!';
+# say 'Hola, Eclipse!';
